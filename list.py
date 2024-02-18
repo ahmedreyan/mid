@@ -11,27 +11,27 @@ print(a)
 c=[45, "Marry",False,6.9]
 print(c)
 #Sort 
-l1=[2,12,4,6,16,23,43,35]
+l1=[2,12,4,6,16,23,43]
 l1.sort()
 print(l1)
 #Reverse
-l1=[2,12,4,6,16,23,43,35]
+l1=[2,12,4,6,16,23,43]
 l1.reverse()
 print(l1)
 #Appends adds at the end of the list
-l1=[2,12,4,6,16,23,43,35]
+l1=[2,12,4,6,16,23,43]
 l1.append(47)
 print(l1)
 #Insert
-l1=[2,12,4,6,16,23,43,35]
+l1=[2,12,4,6,16,23,43]
 l1.insert(2,5)
 print(l1)
 #pop remove element at index
-l1=[2,12,4,6,16,23,43,35]
+l1=[2,12,4,6,16,23,43]
 l1.pop(5)
 print(l1)
 #Remove [remove of the list]
-l1=[2,12,4,6,16,23,43,35]
+l1=[2,12,4,6,16,23,43]
 l1.remove(12)
 print(l1)
 
